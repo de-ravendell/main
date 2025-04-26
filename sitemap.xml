@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://de-ravendell.github.io/main</loc>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://de-ravendell.github.io/navigator</loc>
+      <priority>o.8</priority>
+   </url>
+   <url>
+      <loc>https://de-ravendell.github.io/2048</loc>
+      <priority>o.8</priority>
+   </url>
+   <url>
+      <loc>https://de-ravendell.github.io/gomoku</loc>
+      <priority>o.8</priority>
+   </url>
+   <url>
+      <loc>https://de-ravendell.github.io/wordle</loc>
+      <priority>o.8</priority>
+   </url>
+</urlset>
