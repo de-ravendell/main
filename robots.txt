@@ -1,1 +1,1 @@
-Sitemap: https://github.com/de-ravendell/main/blob/main/sitemap.xml
+Sitemap: https://de-ravendell.github.io/main/sitemap.xml
